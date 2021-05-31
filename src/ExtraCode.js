@@ -163,3 +163,19 @@
 // //     <input type="submit"/>
 // // </form>
 // // </>
+
+
+// {/*<select {...register("gender")}>*/}
+// {/*    <option value="female">female</option>*/}
+// {/*    <option value="male">male</option>*/}
+// {/*    <option value="other">other</option>*/}
+// {/*</select>*/}
+//
+// {/*<label htmlFor="name">Naam</label>*/}
+// {/*<input id="name" name="name" type="text"/>*/}
+// <br/>
+// {/*<label htmlFor="Achternaam">Achternaam</label>*/}
+// {/*<input id="lastname" name="lastname" type="text"/>*/}
+
+// <label htmlFor="Leeftijd">Leeftijd</label>
+// <input id="age" name="age" type="text"/>
